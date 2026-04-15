@@ -1,4 +1,4 @@
-# MDBGF: Modality Dropout and Bidirectional Gated Fusion for Multi-modal Knowledge Graph Completion
+# Not All Modalities at Once: Dynamic Dropout and Bidirectional Fusion for Robust Multi-modal Knowledge Graph Completion
 
 
 ## Details
